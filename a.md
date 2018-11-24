@@ -1,1 +1,2 @@
-commit
+commit，
+commit两次是否可以有两个日志
